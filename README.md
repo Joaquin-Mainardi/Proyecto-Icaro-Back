@@ -1,5 +1,4 @@
-ICARO API v1
-Trabajo Integrador
+
 Esta es la API que se ha creado para la Diplomatura Universitaria en Programación Web Full Stack de Icaro.
 
 A continuación están los endpoints de los cuales se obtendrán los recursos para completar el Trabajo Integrador de la Diplomatura. 😎
